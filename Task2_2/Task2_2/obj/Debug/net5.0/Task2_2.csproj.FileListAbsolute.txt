@@ -1,0 +1,16 @@
+G:\Studying\ПДБ\Task2_2\Task2_2\bin\Debug\net5.0\Task2_2.exe
+G:\Studying\ПДБ\Task2_2\Task2_2\bin\Debug\net5.0\Task2_2.deps.json
+G:\Studying\ПДБ\Task2_2\Task2_2\bin\Debug\net5.0\Task2_2.runtimeconfig.json
+G:\Studying\ПДБ\Task2_2\Task2_2\bin\Debug\net5.0\Task2_2.runtimeconfig.dev.json
+G:\Studying\ПДБ\Task2_2\Task2_2\bin\Debug\net5.0\Task2_2.dll
+G:\Studying\ПДБ\Task2_2\Task2_2\bin\Debug\net5.0\ref\Task2_2.dll
+G:\Studying\ПДБ\Task2_2\Task2_2\bin\Debug\net5.0\Task2_2.pdb
+G:\Studying\ПДБ\Task2_2\Task2_2\obj\Debug\net5.0\Task2_2.csproj.AssemblyReference.cache
+G:\Studying\ПДБ\Task2_2\Task2_2\obj\Debug\net5.0\Task2_2.GeneratedMSBuildEditorConfig.editorconfig
+G:\Studying\ПДБ\Task2_2\Task2_2\obj\Debug\net5.0\Task2_2.AssemblyInfoInputs.cache
+G:\Studying\ПДБ\Task2_2\Task2_2\obj\Debug\net5.0\Task2_2.AssemblyInfo.cs
+G:\Studying\ПДБ\Task2_2\Task2_2\obj\Debug\net5.0\Task2_2.csproj.CoreCompileInputs.cache
+G:\Studying\ПДБ\Task2_2\Task2_2\obj\Debug\net5.0\Task2_2.dll
+G:\Studying\ПДБ\Task2_2\Task2_2\obj\Debug\net5.0\ref\Task2_2.dll
+G:\Studying\ПДБ\Task2_2\Task2_2\obj\Debug\net5.0\Task2_2.pdb
+G:\Studying\ПДБ\Task2_2\Task2_2\obj\Debug\net5.0\Task2_2.genruntimeconfig.cache
