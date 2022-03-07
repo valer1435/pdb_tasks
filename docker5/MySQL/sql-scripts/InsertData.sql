@@ -1,0 +1,1 @@
+INSERT INTO students (ID, first_name, last_name, groupe) VALUES ('1', 'Ingmar', 'Bergman', '00001');
